@@ -25,7 +25,7 @@ Pastikan Anda memiliki lingkungan berikut sebelum menjalankan alat ini:
 1. Cloning Repository:
 
 ```
-git clone <URL_REPOSITORY_ANDA>
+git clone https://github.com/Yuurichan-N3/TonXdao-Bot.git
 cd TonXdao-Bot
 ```
 
